@@ -1,0 +1,5 @@
+-  Hi, I’m Bashar! 
+-  I’m interested in wep development 
+-  I’m currently learning programming basics in c languages 
+- contact:
+- merdaabashar@gmail.com
